@@ -1,0 +1,22 @@
+h1{
+text-align: center;
+background-color: yellow;
+height: 60px;
+}
+.header, .hero, .body, .bar, .footer{
+    background-color: blue;
+    margin-bottom: 10px;
+}
+.box{
+    margin: 10px 0;
+    min-height: 80px;
+    background-color: brown;
+    font-size: 30px;
+    color: black;
+}
+.pink{
+    background-color: pink;
+}
+.five{
+    background-color: aqua;
+}
